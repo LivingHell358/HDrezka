@@ -1,0 +1,171 @@
+list:
+- command:
+    action: ahk
+    exe_path: ahk/new search.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+    - ok4
+  phrases:
+  - Поиск фильма
+- command:
+    action: ahk
+    exe_path: ahk/play.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+    - ok4
+  phrases:
+  - включи фильм
+  - останови фильм
+- command:
+    action: ahk
+    exe_path: ahk/film1.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+    - ok4
+  phrases:
+  - номер один
+- command:
+    action: ahk
+    exe_path: ahk/film2.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+    - ok4
+  phrases:
+  - номер два
+- command:
+    action: ahk
+    exe_path: ahk/film3.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+    - ok4
+  phrases:
+  - номер три
+- command:
+    action: ahk
+    exe_path: ahk/film4.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+    - ok4
+  phrases:
+  - номер четыре
+- command:
+    action: ahk
+    exe_path: ahk/film5.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+    - ok4
+  phrases:
+  - номер пять
+- command:
+    action: ahk
+    exe_path: ahk/film6.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+    - ok4
+  phrases:
+  - номер шесть
+- command:
+    action: ahk
+    exe_path: ahk/film7.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+    - ok4
+  phrases:
+  - номер семь
+- command:
+    action: ahk
+    exe_path: ahk/film8.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+    - ok4
+  phrases:
+  - номер восемь
+- command:
+    action: ahk
+    exe_path: ahk/film9.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+    - ok4
+  phrases:
+  - номер девять
+- command:
+    action: ahk
+    exe_path: ahk/film10.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+    - ok4
+  phrases:
+  - номер десять
+- command:
+    action: ahk
+    exe_path: ahk/full window.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+    - ok4
+  phrases:
+  - фильм на весь экран
+  - сверни фильм 
+- command:
+    action: ahk
+    exe_path: ahk/hdrezka.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+    - ok4
+  phrases:
+  - давай посмотрим фильм
